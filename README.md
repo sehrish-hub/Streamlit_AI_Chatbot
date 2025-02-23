@@ -1,4 +1,5 @@
 🚀 AI Chatbot with Google Gemini & Streamlit
+
 📌 Project Overview
 
 This project is a real-time AI chatbot built using Google Gemini AI (gemini-pro) and Streamlit. It provides an intelligent conversational experience, answering questions, summarizing content, and delivering AI-powered responses in a user-friendly web interface.
