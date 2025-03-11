@@ -131,3 +131,4 @@ if user_input:
 st.subheader("🤖 Chat History:")
 for msg in st.session_state.chat_history:
     st.write(msg)
+    
